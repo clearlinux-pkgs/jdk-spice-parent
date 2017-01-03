@@ -1,5 +1,5 @@
 Name     : jdk-spice-parent
-Version  : parent
+Version  : 17 
 Release  : 1
 URL      : http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/17/spice-parent-17.pom
 Source0  : http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/17/spice-parent-17.pom
